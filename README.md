@@ -1,7 +1,7 @@
 
 # 👋 JoelMatic 👋
 
-Hello I'm Joelmatic and I enjoy programing in my spare time.
+Hello I'm Joelmatic and I enjoy programming in my spare time.
 
 
 ## 📫 How to reach me
