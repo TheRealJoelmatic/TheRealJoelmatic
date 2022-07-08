@@ -19,5 +19,3 @@ My discord is Joelmatic#8817
 [![Languages2](https://img.shields.io/badge/-HTML-brightgreen)]()
 [![Languages3](https://img.shields.io/badge/-CSS-orange)]()
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealJoelmatic&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
