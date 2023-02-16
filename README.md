@@ -17,5 +17,5 @@ My discord is Joelmatic#8817
 
 [![Languages1](https://img.shields.io/badge/-C%23-blue)]()
 [![Languages2](https://img.shields.io/badge/-HTML-brightgreen)]()
-[![Languages3](https://img.shields.io/badge/-CSS-orange)]()
-
+[![Languages3](https://img.shields.io/badge/-CSS-yellow)]()
+[![Languages4]((https://img.shields.io/badge/-Java-orange))]()
