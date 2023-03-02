@@ -20,4 +20,4 @@ My discord is Joelmatic#8817
 [![Languages3](https://img.shields.io/badge/-CSS-yellow)]()
 [![Languages4](https://img.shields.io/badge/-Java-orange)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJoelmatic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
