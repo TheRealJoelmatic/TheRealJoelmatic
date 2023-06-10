@@ -12,7 +12,7 @@ My discord is Joelmatic#8817
 ## 🗺 Portfolio
 
 [Game Portfolio](https://joelmatic.itch.io/)
-Website Coming Soon
+ | Website Coming Soon
 ## 📕 Languages I'm learning
 
 
