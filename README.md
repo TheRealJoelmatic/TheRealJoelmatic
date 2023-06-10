@@ -21,6 +21,4 @@ I'm continuously expanding my programming skills and learning new languages and 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJoelmatic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-The above card displays the distribution of languages used in my GitHub repositories. It provides insights into the technologies I work with the most.
-
 
