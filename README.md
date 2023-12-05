@@ -1,8 +1,8 @@
-# 📊 GitHub Stats:
+# 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheRealJoelmatic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-# 📊 Tech Stack:
+# 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br><br>
@@ -37,11 +37,11 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
+## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <a href="[https://github.com/TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
