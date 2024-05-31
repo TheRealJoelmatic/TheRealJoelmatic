@@ -5,8 +5,14 @@
 
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheRealJoelmatic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheRealJoelmatic&theme=material-palenight&hide_border=false)<br/>
+
+
+## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+
+![](https://github-profile-trophy.vercel.app/?username=TheRealJoelmatic&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 
@@ -40,9 +46,3 @@
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![Avast Secure Browser](https://img.shields.io/badge/-Avast_Secure_Browser-4A8BCC?style=flat-square&logo=avast&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)
-
-
-
-## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
