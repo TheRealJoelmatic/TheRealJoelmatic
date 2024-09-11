@@ -1,3 +1,6 @@
+## 🗞 Banner
+![Banner](img/Snapchat-1700463879.jpg)
+
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <a href="https://github.com/TheRealJoelmatic/RemoveAdblockThing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RemoveAdblockThing" />
