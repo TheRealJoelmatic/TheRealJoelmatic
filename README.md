@@ -1,5 +1,5 @@
 ## 🗞 Banner
-![Banner](img/Snapchat-1700463879.jpg)
+![Banner](img/banner.jpg)
 
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <a href="https://github.com/TheRealJoelmatic/RemoveAdblockThing">
