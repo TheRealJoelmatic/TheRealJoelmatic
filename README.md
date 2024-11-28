@@ -11,7 +11,7 @@
 <a href="https://github.com/TheRealJoelmatic/1v1.lol-cheat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
 </a>
-<a href="https://github.com/TheRealJoelmatic/apex-matic)">
+<a href="https://github.com/TheRealJoelmatic/apex-matic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
 </a>
 
