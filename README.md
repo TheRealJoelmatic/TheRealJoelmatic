@@ -1,4 +1,4 @@
-## 🗞 Banner
+## 🗞 Banner 
 ![Banner](img/banner.jpg)
 
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
@@ -22,6 +22,9 @@
 <a href="https://github.com/TheRealJoelmatic/ImGui-External-Base">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
 </a>
+
+## 🕛 𝗖𝗼𝗱𝗲 𝗦𝘁𝗮𝘁𝘀
+[![Code Time](https://wakatime.com/badge/user/1efe6a5a-c79f-4919-9dbc-7529bdf17870.svg)](https://wakatime.com/@1efe6a5a-c79f-4919-9dbc-7529bdf17870)
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-stats.vercel.app/api?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
