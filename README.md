@@ -24,7 +24,8 @@
 </a>
 
 ## 🕛 𝗖𝗼𝗱𝗲 𝗦𝘁𝗮𝘁𝘀
-[![Code Time](https://wakatime.com/badge/user/1efe6a5a-c79f-4919-9dbc-7529bdf17870.svg)](https://wakatime.com/@1efe6a5a-c79f-4919-9dbc-7529bdf17870)
+
+(started on JUN 19 2024) [![Code Time](https://wakatime.com/badge/user/1efe6a5a-c79f-4919-9dbc-7529bdf17870.svg)](https://wakatime.com/@1efe6a5a-c79f-4919-9dbc-7529bdf17870) (broke on Thursday, 19 June 2025)
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-stats.vercel.app/api?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
