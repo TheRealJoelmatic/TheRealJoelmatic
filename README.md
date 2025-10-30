@@ -59,7 +59,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Steam Deck](https://img.shields.io/badge/-Steam_Deck-000000?style=flat-square&logo=steamdeck&logoColor=white)
 <br><br>
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-000000?style=flat-square)
 ![Cheat Engine](https://img.shields.io/badge/-Cheat_Engine-FF5733?style=flat-square)
@@ -67,7 +66,6 @@
 ![DnsSpy](https://img.shields.io/badge/-DnsSpy-0078D4?style=flat-square)
 <br><br>
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Avast Secure Browser](https://img.shields.io/badge/-Avast_Secure_Browser-4A8BCC?style=flat-square&logo=avast&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)
 
 ## 💜 Vouches 
