@@ -15,7 +15,7 @@
 
 ## 🕛 𝗖𝗼𝗱𝗲 𝗦𝘁𝗮𝘁𝘀
 
-(started on JUN 19 2024) [![Code Time](https://wakatime.com/badge/user/1efe6a5a-c79f-4919-9dbc-7529bdf17870.svg)](https://wakatime.com/@1efe6a5a-c79f-4919-9dbc-7529bdf17870) (broke on Thursday, 19 June 2025)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=joelmatic&theme=github_dark)
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-stats-fast.vercel.app/api?username=TheRealJoelmatic&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
