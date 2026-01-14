@@ -3,39 +3,39 @@
 
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <a href="https://github.com/TheRealJoelmatic/RemoveAdblockThing">
-  <img align="center" src="http://githubreadmestatsfast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RemoveAdblockThing" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RemoveAdblockThing" />
 </a>
 <a href="https://github.com/TheRealJoelmatic/maticHook">
-  <img align="center" src="http://githubreadmestatsfast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="maticHook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="maticHook" />
 </a>
 
 <a href="https://github.com/TheRealJoelmatic/apex-matic">
-  <img align="center" src="http://githubreadmestatsfast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
 </a>
 <a href="https://github.com/TheRealJoelmatic/1v1.lol-cheat">
-  <img align="center" src="http://githubreadmestatsfast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
 </a>
 
 <a href="https://github.com/TheRealJoelmatic/MatickSkyCore/tree/main">
-  <img align="center" src="http://githubreadmestatsfast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=MatickSkyCore&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=MatickSkyCore&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
 </a>
 <a href="https://github.com/TheRealJoelmatic/ImGui-External-Base">
-  <img align="center" src="http://githubreadmestatsfast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
 </a>
 
 ## 🕛 𝗖𝗼𝗱𝗲 𝗦𝘁𝗮𝘁𝘀
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=joelmatic&theme=radical)
+(started on JUN 19 2024) [![Code Time](https://wakatime.com/badge/user/1efe6a5a-c79f-4919-9dbc-7529bdf17870.svg)](https://wakatime.com/@1efe6a5a-c79f-4919-9dbc-7529bdf17870) (broke on Thursday, 19 June 2025)
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
-![](http://githubreadmestatsfast.vercel.app/api?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](http://githubreadmestatsfast.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheRealJoelmatic&theme=material-palenight&hide_border=false)<br/>
 
 
 ## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=joelmatic&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=TheRealJoelmatic&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 
