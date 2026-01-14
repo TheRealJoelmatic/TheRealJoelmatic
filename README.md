@@ -2,14 +2,14 @@
 ![Banner](img/banner.jpg)
 
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-[![RemoveAdblockThing](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&theme=radical)](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
-[![maticHook](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&theme=radical)](https://github.com/TheRealJoelmatic/maticHook)
+[![RemoveAdblockThing](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&theme=github_dark)](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
+[![maticHook](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&theme=github_dark)](https://github.com/TheRealJoelmatic/maticHook)
 
-[![apex-matic](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&theme=radical)](https://github.com/TheRealJoelmatic/apex-matic)
-[![1v1.lol-cheat](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&theme=radical)](https://github.com/TheRealJoelmatic/1v1.lol-cheat)
+[![apex-matic](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&theme=github_dark)](https://github.com/TheRealJoelmatic/apex-matic)
+[![1v1.lol-cheat](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&theme=github_dark)](https://github.com/TheRealJoelmatic/1v1.lol-cheat)
 
-[![MatickSkyCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=MatickSkyCore&theme=radical)](https://github.com/TheRealJoelmatic/MatickSkyCore)
-[![ImGui-External-Base](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&theme=radical)](https://github.com/TheRealJoelmatic/ImGui-External-Base)
+[![MatickSkyCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=MatickSkyCore&theme=github_dark)](https://github.com/TheRealJoelmatic/MatickSkyCore)
+[![ImGui-External-Base](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&theme=github_dark)](https://github.com/TheRealJoelmatic/ImGui-External-Base)
 
 
 
@@ -18,9 +18,9 @@
 (started on JUN 19 2024) [![Code Time](https://wakatime.com/badge/user/1efe6a5a-c79f-4919-9dbc-7529bdf17870.svg)](https://wakatime.com/@1efe6a5a-c79f-4919-9dbc-7529bdf17870) (broke on Thursday, 19 June 2025)
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
-![](https://github-readme-stats-fast.vercel.app/api?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats-fast.vercel.app/?user=TheRealJoelmatic&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api?username=TheRealJoelmatic&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheRealJoelmatic&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats-fast.vercel.app/?user=TheRealJoelmatic&theme=github_dark&hide_border=false)<br/>
 
 
 ## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
