@@ -2,26 +2,16 @@
 ![Banner](img/banner.jpg)
 
 ## 🗂️ 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-<a href="https://github.com/TheRealJoelmatic/RemoveAdblockThing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="RemoveAdblockThing" />
-</a>
-<a href="https://github.com/TheRealJoelmatic/maticHook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="maticHook" />
-</a>
+[![RemoveAdblockThing](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=RemoveAdblockThing&theme=radical)](https://github.com/TheRealJoelmatic/RemoveAdblockThing)
+[![maticHook](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&theme=radical)](https://github.com/TheRealJoelmatic/maticHook)
 
-<a href="https://github.com/TheRealJoelmatic/apex-matic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
-</a>
-<a href="https://github.com/TheRealJoelmatic/1v1.lol-cheat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
-</a>
+[![apex-matic](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&theme=radical)](https://github.com/TheRealJoelmatic/apex-matic)
+[![1v1.lol-cheat](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&theme=radical)](https://github.com/TheRealJoelmatic/1v1.lol-cheat)
 
-<a href="https://github.com/TheRealJoelmatic/MatickSkyCore/tree/main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=MatickSkyCore&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="apex-matic" />
-</a>
-<a href="https://github.com/TheRealJoelmatic/ImGui-External-Base">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="1v1.lol-cheat" />
-</a>
+[![MatickSkyCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=MatickSkyCore&theme=radical)](https://github.com/TheRealJoelmatic/MatickSkyCore)
+[![ImGui-External-Base](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&theme=radical)](https://github.com/TheRealJoelmatic/ImGui-External-Base)
+
+
 
 ## 🕛 𝗖𝗼𝗱𝗲 𝗦𝘁𝗮𝘁𝘀
 
