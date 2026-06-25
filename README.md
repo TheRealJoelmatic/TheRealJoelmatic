@@ -58,15 +58,3 @@
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)
 
-## 💜 Vouches 
-
-Context all of these vouches are from discord were I sell video game cheats ive made.
-- Rainbow 6 siege
-- Call Of Duty cold war (unlock all)
-- Minecraft Java
-- Comabat master 
-- Redmatch 2
-
-[https://joelmatic.com/vouch.html](https://joelmatic.com/vouch.html)
-
-
