@@ -6,7 +6,7 @@
 [![maticHook](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=maticHook&theme=github_dark)](https://github.com/TheRealJoelmatic/maticHook)
 
 [![MatickSkyCore](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=lazy-function-pointer-encryptor&theme=github_dark)](https://github.com/TheRealJoelmatic/lazy-function-pointer-encryptor)
-[![apex-matic](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=apex-matic&theme=github_dark)](https://github.com/TheRealJoelmatic/apex-matic)
+[![Linux-SO-Injector](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=Linux-SO-Injector&theme=github_dark)](https://github.com/TheRealJoelmatic/Linux-SO-Injector)
 
 [![1v1.lol-cheat](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=1v1.lol-cheat&theme=github_dark)](https://github.com/TheRealJoelmatic/1v1.lol-cheat)
 [![ImGui-External-Base](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheRealJoelmatic&repo=ImGui-External-Base&theme=github_dark)](https://github.com/TheRealJoelmatic/ImGui-External-Base)
